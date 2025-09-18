@@ -21,8 +21,8 @@ I’m also exploring DevOps to streamline deployment pipelines, automate workflo
 </div>
 </br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tranduckhuy/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/tranduckhuy/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
+  <img src="https://github.com/tranduckhuy/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
+  <img src="https://github.com/tranduckhuy/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
 </div>
 
 <div align="center">
